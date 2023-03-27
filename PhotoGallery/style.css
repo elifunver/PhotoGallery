@@ -1,0 +1,25 @@
+body{
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#h3{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.container{
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.container img{
+    border: 2px solid black;
+    margin: 10px;
+    height: 400px;
+    width: 400px;
+    
+}
